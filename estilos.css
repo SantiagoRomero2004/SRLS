@@ -13,7 +13,7 @@ body {
 }
 
 .menu-principal {
-    background-image: url('fondoo.jpg');
+    background-image: url('fondoo.jpg.jpg');
     display: flex;
     justify-content: center;
     align-items: flex-end;
